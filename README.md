@@ -7,7 +7,7 @@
 **Aspiring Data Scientist & Analytics Enthusiast**
 
 Welcome to my GitHub profile! I'm passionate about leveraging data to drive meaningful insights and solve real-world problems. I'm continuously learning and building my skills in data science, analytics, and machine learning.
-<img align = "right" alt = "coding" width = "400" src = "C:\Users\Harsh\Desktop\Pfp.gif](https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align = "right" alt = "coding" width = "400" src = "https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 ---
 
 ## 🛠️ Skills
